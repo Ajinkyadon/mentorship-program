@@ -1,0 +1,9 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "env": {
+    "GITHUB_RAW_BASE": "https://raw.githubusercontent.com/Ajinkyadon/mentorship-program/main"
+  }
+}
